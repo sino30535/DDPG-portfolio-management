@@ -1,0 +1,16 @@
+symbols
+AAPL
+BAC
+BA
+GE
+GOOG
+JNJ
+KO
+MA
+MRK
+MSFT
+NVDA
+PFE
+SBUX
+T
+XOM
