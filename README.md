@@ -2,7 +2,7 @@
 Build DDPG models and test on stock market
 
 # Reference
-* Original paper https://github.com/ZhengyaoJiang/PGPortfolio
+* Code from original paper https://github.com/ZhengyaoJiang/PGPortfolio
 * https://github.com/vermouth1992/drl-portfolio-management
 * [A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem](https://arxiv.org/abs/1706.10059)
 * The environment is inspired by https://github.com/wassname/rl-portfolio-management
