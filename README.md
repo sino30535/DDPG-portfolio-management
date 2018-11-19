@@ -19,7 +19,7 @@ Build DDPG models and test on stock market
 # Results
 * The models were built in a time series rolling scheme, using data from previous month to build rl model and test on next month.
 * The model reach 14% rate of return from 2018/02/01 to 2018/10/29, compare with 5.6% rate of return using strategy of buy 15 stocks
-  uniformly and hold and -16.8% rate of return using strategy of buy best performance stock in last month.
+  uniformly and hold and -16.8% rate of return using strategy of buy best performance stock in last month. More details in ipython           notebook.
 * The rl model in stock market can be very unstable and suffered a lot from overfitting.
 * The model only buy and sell with very small portion of portfolio, it didn't change position very often during the month.
 
